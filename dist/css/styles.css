@@ -1,0 +1,39 @@
+p{
+ alignment: center;
+  background-color: chartreuse;
+font-style: italic;
+}
+button{
+  color: black;
+  padding:15px;
+  background: blueviolet;
+ font-size: 16px;
+
+ }
+td,th{
+  border: 2px dotted gold;
+  font-family: Saab;
+  padding: 35px;
+  text-align: center;
+  font-size: medium;
+  border-radius: 15px;
+  color: deeppink;
+  background-color: beige;
+
+}
+table{
+  width: 100;
+  border-collapse: collapse;
+  margin: 10px;
+
+}
+lists{
+ul{
+  border:  2px blue;
+  text-align: center;
+  font-size: medium;
+  background-color: burlywood;
+  border-radius: 12px;
+  color: darkmagenta;
+
+}
